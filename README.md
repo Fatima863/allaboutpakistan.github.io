@@ -1,0 +1,97 @@
+# allaboutpakistan.github.io
+Project website
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pakistan Information</title>
+</head>
+<body bgcolor="green" text="white">
+<a name="top"> </a>
+    <h1> <font size="7"> Pakistan</font></h1>
+    <p>Pakistan is a diverse and culturally rich country located in South Asia. It shares borders with India, Afghanistan, Iran, and China, and has a coastline along the Arabian Sea. Pakistan is known for its historical sites, stunning landscapes, and vibrant culture.</p>
+<a href="https://en.wikipedia.org/wiki/Pakistan"> Learn more about Pakistan </a>
+    <h2><u> LIST OF PROVINCES OF PAKISTAN</u></h2>
+    <ul>
+        <li>Punjab 
+<p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Wt258zyMv0p-CtTmNI9wykckl2KggVBsPQ&usqp=CAU" width="150" alt="Badshahi mosque">
+</p>
+            <ul>
+                <li>Lahore</li>
+                <li>Faisalabad</li>
+                <li>Multan</li>
+                <li>Rawalpindi</li>
+                <li>Gujranwala</li>
+            </ul>
+        </li>
+        <li>Sindh
+<p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPsNMohweYTG9nSNcXqflGN7TkgJRHNI-2BA&usqp=CAU" width="150" alt="Mazar-e-quaid">
+</p>
+            <ul>
+                <li>Karachi</li>
+                <li>Hyderabad</li>
+                <li>Larkana</li>
+                <li>Sukkur</li>
+                <li>Mirpur Khas</li>
+            </ul>
+        </li>
+        <li>Khyber Pakhtunkhwa (KP)
+<p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcmQCtcoIc4vzaLyWm4F4_2qKAeSAQ3J7ksg&usqp=CAU" width="150" alt="Dara Khyber">
+</p>
+            <ul>
+                <li>Peshawar</li>
+                <li>Abbottabad</li>
+                <li>Swat</li>
+                <li>Mardan</li>
+                <li>Nowshera</li>
+            </ul>
+        </li>
+        <li>Balochistan 
+<p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS27kAIco9SfJYKUUTv6IEo1mhp_m0waEKuLA&usqp=CAU" width="150" alt="Quaid's House"> 
+</p>
+            <ul>
+                <li>Quetta</li>
+                <li>Gwadar</li>
+                <li>Turbat</li>
+                <li>Chaman</li>
+                <li>Khuzdar</li>
+            </ul>
+        </li>
+    </ul> 
+<table border="2"> 
+<tr>
+<th> Province </th>
+<th> Population </th>
+<th> Capital City </th>
+</tr>
+<tr>
+<td> Punjab </td>
+<td> 110 Million </td>
+<td> Lahore </td>
+</tr>
+<tr>
+<td> Sindh </td>
+<td> 52 Million </td>
+<td> Karachi </td>
+</tr> 
+<tr>
+<td> Balochistan </td>
+<td> 21.7 Million </td>
+<td> Quetta </td>
+</tr> 
+<tr>
+<td> Khyber Pakhtunkhwa </td>
+<td> 40.85 Million </td>
+<td> Peshawar </td>
+</tr>
+</table>
+<h2> <u> Conclusion </h2> </u> 
+<p> 
+From the breathtaking landscapes of the northern mountains to the vibrant cities and rich cultural heritage of the south, Pakistan is a traveler's dream waiting to be explored. With its warm and welcoming people, diverse experiences, and an abundance of natural wonders, Pakistan offers an adventure of a lifetime. So, pack your bags, embark on this extraordinary journey, and let Pakistan captivate your heart. Your next great adventure starts here.😇🥰
+</p>
+<a href="#top"> Go to top</a>
+</body>
+</html>
